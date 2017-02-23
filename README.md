@@ -2,6 +2,7 @@
 
  - 汪洁/女/1995
  - 本科/上海师范大学/计算机科学与技术(2013 ~ 2017)
+
  - 技术博客：[无媛无故 - wangchloe的个人博客](http://wangchloe.vip/)
  - Github: [https://github.com/WangChloe](https://github.com/WangChloe)
 
@@ -14,6 +15,27 @@
 
 - 手机：15221761509
 - Email：wangchloe@yeah.net
+
+---
+
+# 技能清单
+
+- 前端
+  - 掌握HTML、CSS、JavaScript基础应用
+  - 曾多次使用jQuery框架，并用原生js思想仿写了Chloe.js
+  - 有Bootstrap、Angular、Require、Gulp等框架的使用经验
+  - 熟悉HTML5、CSS3、Less、Sass等Web开发技术
+  - 了解ES6标准，了解React框架
+
+- 后端及工具：
+  - 熟练运用Sublime Text、PhotoShop等相关网页制作软件
+  - 熟悉Java、MySQL、SVN、Git，有ubuntu系统使用经验
+
+- 生活技能：处女座四大技能
+  - 写的了软文
+  - 进的了厨房
+  - 码的了代码
+  - 煲的了鸡汤
 
 ---
 
@@ -76,38 +98,34 @@
 - 从细节切图，到html&css制作，再到jQuery添加效果及功
 能优化。
 
+---
+
 # 我在简书
 
 - [WangChloe - 简书](http://www.jianshu.com/u/10fc79e42608)
+
+---
 
 # 我在Github
 
 - [https://github.com/WangChloe](https://github.com/WangChloe)
 
+---
+
 # 我在微信公众号
 
 ![微信公众号：无媛无故](http://upload-images.jianshu.io/upload_images/2125655-f7a4736d8601eb14.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-# 技能清单
-
-- Web开发：PHP/Hack/Node
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 生活技能：处女座十大技能
+---
 
 # 自我评价
 
-- 2016年年中开始自学前端，计算机专业出身的我希望做一
-名有记性有温度不掉发的前端程序媛
-- 喜欢用markdown写笔记，自命“简书五流作者”，有个
-人微信公众号，注重学习分享和个人发展规划
-- 具有良好的审美观和用户体验意识，做事干净利落，善于与
-产品、设计、后端人员沟通
-- 持续关注业界最新发展，充分理解前端开发对界面体验、交
-互设计、可访问性和网站性能的重要性
+- 2016年年中开始自学前端，计算机专业出身的我希望做一名有记性有温度不掉发的前端程序媛
+- 喜欢用markdown写笔记，自命“简书五流作者”，有个人微信公众号，注重学习分享和个人发展规划
+- 具有良好的审美观和用户体验意识，做事干净利落，善于与产品、设计、后端人员沟通
+- 持续关注业界最新发展，充分理解前端开发对界面体验、交互设计、可访问性和网站性能的重要性
+
+---
 
 # 校内经历
 
@@ -118,6 +136,8 @@
 - 院校级学生会干事(2013.09 - 2014.09 )
 担任传媒部干事，多次参加学校、学院活动，拍摄相关活动照
 片并撰写新闻稿，刊登于学校官网及公众号。
+
+---
 
 # 获奖情况
 
